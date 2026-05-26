@@ -208,4 +208,3 @@ print("Area afetada:", round(areas_afetadas[indice_critico], 2), "km2")
  
 print("========================================")
 print("Total de desastres registrados:", total_eventos)
- 
